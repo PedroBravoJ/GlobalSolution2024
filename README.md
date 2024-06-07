@@ -56,6 +56,8 @@ O usuário poderá acompanhar um ranking com todas as pessoas que estão cadastr
 
 - Para treinamento do modelo foi utilizado a ferramenta de detecção de objetos do  [Roboflow](https://roboflow.com/). Foram utilizadas 140 imagens para o treinamento (de 10 a 12 imagens para cada classe, aproximadamente).
 
+![Métricas Roboflow](FotosDocumentação/metricasroboflow.PNG)
+
 - Para visualização das imagens na apresentação, foi utilizada a função [Display](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html) da biblioteca IPython.
 
 ### Fontes utilizadas
