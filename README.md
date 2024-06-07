@@ -84,7 +84,7 @@ O usuário poderá acompanhar um ranking com todas as pessoas que estão cadastr
 
 2.   [Annual plastic waste by disposal method, World, 2000 to 2019](https://ourworldindata.org/grapher/plastic-fate)
 
-![Annual plastic waste by disposal method, World, 2000 to 2019](imagens/exemplo.png)
+![Annual plastic waste by disposal method, World, 2000 to 2019](Fotos Documentação/plastic-fate.png)
 
 3.  [Plastic waste accumulated in the oceans, 2000 to 2019](https://ourworldindata.org/grapher/plastic-waste-accumulated-in-oceans)
 
