@@ -80,7 +80,7 @@ O usuário poderá acompanhar um ranking com todas as pessoas que estão cadastr
 
 1.   [Global plastics production](https://ourworldindata.org/grapher/global-plastics-production)
    
-![global plastics production](imagens/exemplo.png)
+![global plastics production](Fotos Documentação/global-plastics-production.png)
 
 2.   [Annual plastic waste by disposal method, World, 2000 to 2019](https://ourworldindata.org/grapher/plastic-fate)
 
@@ -88,7 +88,7 @@ O usuário poderá acompanhar um ranking com todas as pessoas que estão cadastr
 
 3.  [Plastic waste accumulated in the oceans, 2000 to 2019](https://ourworldindata.org/grapher/plastic-waste-accumulated-in-oceans)
 
-![Plastic waste accumulated in the oceans, 2000 to 2019](imagens/exemplo.png)
+![Plastic waste accumulated in the oceans, 2000 to 2019](Fotos Documentação/plastic-waste-accumulated-in-oceans.png)
 
 ### Tratamento
 
