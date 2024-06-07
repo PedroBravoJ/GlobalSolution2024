@@ -17,6 +17,7 @@ Diversos eventos de limpeza podem ser cadastrados na plataforma, onde o usuário
 
 * Ranking e Pontuação:
 O usuário poderá acompanhar um ranking com todas as pessoas que estão cadastradas no aplicativo, sendo ordenado do maior nível de lixo reportado para o menor nível, assim será possível verificar quem esta mais contribuindo na limpeza de praias.
-# Objetivo:
+
+## Objetivo:
 
 * O aplicativo busca não apenas informar, mas também transformar a consciência ambiental em ação prática. Com funcionalidades que engajam os usuários de maneira ativa, o projeto almeja criar uma comunidade vibrante e consciente que contribua regularmente para a saúde dos ecossistemas marinhos.
