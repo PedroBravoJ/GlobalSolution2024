@@ -1,4 +1,4 @@
-# GlobalSolution2024
+#  OceanCare - Global Solution 2024
 Texto Atualizado: 
 
 ## Escopo do Projeto:
